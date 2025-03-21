@@ -1,4 +1,3 @@
-// src/main/java/com/airline/entity/Ticket.java
 package com.airline.entity;
 
 import lombok.AllArgsConstructor;

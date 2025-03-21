@@ -1,4 +1,3 @@
-// src/main/java/com/airline/entity/Flight.java
 package com.airline.entity;
 
 import lombok.AllArgsConstructor;
@@ -22,5 +21,3 @@ public class Flight {
     @OneToMany(mappedBy = "flight")
     private List<Schedule> schedules;
 }
-
-

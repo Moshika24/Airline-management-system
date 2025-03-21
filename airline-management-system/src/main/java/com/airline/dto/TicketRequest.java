@@ -1,4 +1,3 @@
-// src/main/java/com/airline/dto/TicketRequest.java
 package com.airline.dto;
 
 import lombok.Data;
